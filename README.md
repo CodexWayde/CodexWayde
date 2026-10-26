@@ -1,17 +1,17 @@
-# Hi, I'm Isaac Desmond 👋
+# Hi, I'm Isaac Desmond 
 
 **AI Automation Specialist & Full-Stack Developer** based in Nigeria, available for remote work worldwide.
 
 I build workflows and apps that remove repetitive manual work, using n8n, Python, and modern JavaScript. I'm self-taught, I ship fast, and I'm happy to start with a small trial task.
 
-## 🛠️ What I work with
+##  What I work with
 
 - **AI & Automation:** n8n, LLMs, Claude API, Telegram Bot API
 - **Backend:** Python, Flask, Node.js, Supabase, PostgreSQL
 - **Frontend & Mobile:** React, React Native, Expo, JavaScript
 - **Deployment:** Vercel, Railway, Git & GitHub
 
-## 🚀 Featured projects
+##  Featured projects
 
 - **AI Customer Support & Sales Multi-Agent System:** multi-agent AI that handles support questions and sales conversations
 - **Lead Notification Automation:** n8n workflow that sends an instant Telegram alert for each new lead in Google Sheets

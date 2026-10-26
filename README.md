@@ -19,11 +19,11 @@ I build workflows and apps that remove repetitive manual work, using n8n, Python
 - **TradeSync:** React Native marketplace app connecting artisans and customers in Nigeria
 - **[CodexWeb Services](https://codexwebservices.vercel.app):** live business website with Paystack payments and full SEO setup
 
-## 📫 Let's work together
+##  Let's work together
 
-- 🌐 Portfolio: [codexwayde.github.io/portfolio](https://codexwayde.github.io/portfolio)
-- 📧 Email: desmondisaac247@gmail.com
-- 💬 WhatsApp: [+234 707 275 5225](https://wa.me/2347072755225)
-- 🔗 LinkedIn: [isaac-desmond](https://www.linkedin.com/in/isaac-desmond-b23a213a7)
+-  Portfolio: [codexwayde.github.io/portfolio](https://codexwayde.github.io/portfolio)
+-  Email: desmondisaac247@gmail.com
+-  WhatsApp: [+234 707 275 5225](https://wa.me/2347072755225)
+-  LinkedIn: [isaac-desmond](https://www.linkedin.com/in/isaac-desmond-b23a213a7)
 
 Got something repetitive you want automated? Send me one small task and I'll show you what I can do.
